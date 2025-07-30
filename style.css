@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+    text-align: justify;
+    background-color: rgb(253, 188, 103);
+}
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+img {
+    width: 100px;
+    border: 1px solid burlywood;
+    border-radius: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.image {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    padding: 50px;
+}
+
+nav {
+    text-align: center;
+}
+.ty {
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    border-radius: 10px;
+    padding: 20px;
+}
+.back {
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+}
+html {
+    font-size: 20px;
+}
+footer {
+    padding: 20px;
+    background-color: burlywood;
+    border: 1px solid burlywood;
+    border-radius: 20px;
+}
